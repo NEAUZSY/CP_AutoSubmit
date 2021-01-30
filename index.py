@@ -6,6 +6,7 @@ import yaml
 import oss2
 import base64
 import uuid
+
 from urllib.parse import urlparse
 from datetime import datetime, timedelta, timezone
 from urllib3.exceptions import InsecureRequestWarning
@@ -422,7 +423,7 @@ def main_handler(event, context):
         InfoSubmit("出现问题了！" + str(e))
         raise e
     else:
-        return 'success'
+        return '成功提交'
 
 
 # 配合Windows计划任务等使用

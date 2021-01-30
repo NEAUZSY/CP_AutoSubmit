@@ -53,10 +53,6 @@ cpdaily:
         type: 2
         title: 家庭所在地
         value: 河北省/唐山市/路北区
-    - default:
-        type: 2
-        title: 家庭所在地
-        value: 河北省/唐山市/路北区
 
 Info:
   ServerChan: # 填写Server酱的SCKEY
