@@ -4,9 +4,13 @@
 
 #### 致敬子墨大神和他的小伙伴们
 
+#### 大家可以看一下我在CSDN写的探究过程，改动了几个不适用我的bug[传送门-->](https://blog.csdn.net/weixin_46180926/article/details/113427004)
+
+#### 项目只是为了娱乐，请大家自觉填写疫情防控信息
+
 ### =======================分割线===========================
 
-# 以下为原readme,[原项目](https://github.com/ZimoLoveShuang/auto-submit)
+# 以下为原项目的readme,[原项目](https://github.com/ZimoLoveShuang/auto-submit)
 
 # auto-submit
 
